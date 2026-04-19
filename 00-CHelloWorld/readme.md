@@ -2,9 +2,9 @@
 Resolución 00-CHelloWorld
 
 Datos del Compilador
-- Compilador seleccionado:** GCC 
-- Versión del compilador:** 14.2.0 
-- Versión de C:** C23 
+- Compilador seleccionado: GCC 
+- Versión del compilador: 14.2.0 
+- Versión de C: C23 
 
 Procedimiento
 1. Se redactó el código en `HolaMundo.c` utilizando `printf`.
